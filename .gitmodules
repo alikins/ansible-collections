@@ -1,0 +1,3 @@
+[submodule "alikins"]
+	path = alikins
+	url = git@github.com:alikins/ansible-collections-alikins.git
