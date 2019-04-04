@@ -1,3 +1,6 @@
 [submodule "alikins"]
 	path = alikins
 	url = git@github.com:alikins/ansible-collections-alikins.git
+[submodule "notalikins"]
+	path = notalikins
+	url = git@github.com:notalikins/ansible-collections-notalikins.git
